@@ -4,4 +4,4 @@ I aspire to safeguard individuals and organizations from malicious threats, ensu
 
 I am a very growth-oriented character, always looking to improve myself physically, mentally, spiritually, and professionally. I am a kind and respectful person, and I enjoy the company of others.
 
-I am currently working towards completing the Google Cybersecurity Professional Certificate to pursue my passion for cybersecurity and hone my skills.
+I recently completed the Google Cybersecurity Professional Certificate, and am currently working towards the CompTIA Security+ Certification to pursue my passion for cybersecurity and hone my skills.
